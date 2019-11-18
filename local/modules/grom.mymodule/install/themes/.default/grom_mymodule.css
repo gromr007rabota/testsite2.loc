@@ -1,0 +1,15 @@
+.adm-grom_mymodule .adm-main-menu-item-icon {
+    background-image: url('/bitrix/images/grom.mymodule/mymodule_global_logo.png');
+    background-position: center 10px;
+    height: 49px;
+}
+
+.adm-grom_mymodule:hover .adm-main-menu-item-icon {
+    background-position: center -38px;
+    height: 49px;
+}
+
+.adm-main-menu-item-active.adm-grom_mymodule .adm-main-menu-item-icon {
+    background-position: center -38px;
+    height: 49px;
+}

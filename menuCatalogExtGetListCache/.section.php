@@ -1,0 +1,6 @@
+<?
+$sSectionName = "menuCatalogExtGetListCache";
+$arDirProperties = Array(
+
+);
+?>

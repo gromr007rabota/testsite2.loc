@@ -1,0 +1,6 @@
+<?
+$sSectionName = "menuCatalogExt";
+$arDirProperties = Array(
+
+);
+?>

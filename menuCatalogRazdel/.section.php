@@ -1,0 +1,6 @@
+<?
+$sSectionName = "menuKatalogRazdel";
+$arDirProperties = Array(
+
+);
+?>

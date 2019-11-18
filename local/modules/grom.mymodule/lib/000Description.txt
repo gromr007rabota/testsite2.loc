@@ -1,0 +1,22 @@
+all.php
+    Содержит несколько классов, Используется для подключения в include.php
+    Классы lass NotPsr4One, NotPsr4Two
+    Ф-и getParam($param), getParam($param)
+
+buttonleftmenuadmin.php
+    Используется для добавления своего пункта меню в админку на левую панель
+    Классы  ButtonLeftMenuAdmin
+    Ф-и OnBuildGlobalMenu
+
+division.php
+    Используется для кидания своего исключения DivisionError
+    Классы  Division
+    Ф-и divided
+    Исключения DivisionError
+
+divisionerror.php
+    Используется для расширения класса исключений своим классом
+    Классы  DivisionError
+    Ф-и __construct ,getParam1 ,getParam2
+    Исключения DivisionError
+

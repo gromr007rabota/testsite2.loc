@@ -1,0 +1,3 @@
+
+section_list_menu_catalog - Меню разделов каталога
+menu_top_razdel - Меню разделов статических
